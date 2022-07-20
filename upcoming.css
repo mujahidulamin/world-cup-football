@@ -45,7 +45,7 @@ body {
 .banner-content a {
     text-decoration: none;
     padding: 12px 30px;
-    background-color: #DD0000;
+    background-color: #eba18b;
     color: #FFFFFF;
     font-weight: 700;
     font-size: 16px;
@@ -84,7 +84,7 @@ body {
 .card-btn {
     margin-top: 20px;
     padding: 5px 45px;
-    background-color: #DD0000;
+    background-color: #eba18b;
     border-radius: 10px;
     color: #FFFFFF;
     text-decoration: none;
@@ -224,7 +224,7 @@ body {
     font-weight: 600;
     font-size: 40px;
     line-height: 60px;
-    color: #FFFFFF;
+    color: #eba18b;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -254,11 +254,12 @@ hr {
     justify-content: center;
     margin-top: 10px;
     gap: 20px;
+    
 }
 
 .social a {
     text-decoration: none;
-    color: #FFFFFF;
+    color: #eba18b;
 }
 
 @media only screen and (max-width:500px) {
