@@ -261,7 +261,7 @@ hr {
     text-decoration: none;
     color: #eba18b;
 }
-
+/* media query for mobile device */
 @media only screen and (max-width:500px) {
     .container {
         width: 100%;
@@ -345,7 +345,7 @@ hr {
         margin-bottom: 20px;
     }
 }
-
+/* media query for tablet and ipad device */
 @media only screen and (min-width:501px) and (max-width:800px) {
     .card {
         align-items: center;
@@ -380,6 +380,7 @@ hr {
     }
 }
 
+/* media query for large device */
 @media only screen and (min-width:801px) and (max-width:1200px) {
     .footer {
         height: 100%;
