@@ -347,6 +347,10 @@ hr {
     .social {
         margin-bottom: 20px;
     }
+
+    hr {
+        width: 80%
+    }
 }
 
 /* media query for tablet and ipad device */
@@ -404,6 +408,10 @@ hr {
         visibility: visible;
         top: 0px;
         left: 535px;
+    }
+
+    hr {
+        width: 80%
     }
 
 }
