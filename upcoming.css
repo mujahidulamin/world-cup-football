@@ -1,3 +1,4 @@
+/* common part start*/
 body {
     margin: 0;
     padding: 0;
@@ -9,6 +10,9 @@ body {
     margin: 0 auto;
 }
 
+/* common part end */
+
+/* header styles start */
 .background {
     background-color: black;
     border-radius: 30px;
@@ -70,6 +74,9 @@ body {
     margin-left: 75px;
 }
 
+/* header styles end */
+
+/* match and card part styles start */
 .card-left {
     height: 200px;
     background-color: #161616;
@@ -78,8 +85,6 @@ body {
     flex-direction: column;
     justify-content: center;
 }
-
-.card-right {}
 
 .card-btn {
     margin-top: 20px;
@@ -213,6 +218,9 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+/* match and card part styles end */
+
+/* footer part styles start */
 .footer {
     height: 200px;
     background-color: #161616;
@@ -261,6 +269,9 @@ hr {
     text-decoration: none;
     color: #eba18b;
 }
+
+/* footer part styles end */
+
 /* media query for mobile device */
 @media only screen and (max-width:500px) {
     .container {
@@ -345,6 +356,7 @@ hr {
         margin-bottom: 20px;
     }
 }
+
 /* media query for tablet and ipad device */
 @media only screen and (min-width:501px) and (max-width:800px) {
     .card {

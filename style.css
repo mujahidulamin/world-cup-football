@@ -200,7 +200,7 @@ body {
     visibility: hidden;
 }
 
-/* match and card part styles start */
+/* match and card part styles end */
 
 /* footer part styles start */
 .footer {
@@ -251,7 +251,8 @@ hr {
     color: #eba18b;
 }
 
-/* footer part styles start */
+/* footer part styles end */
+
 /* media query for mobile device */
 @media only screen and (max-width:500px) {
     .container {
